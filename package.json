@@ -1,0 +1,14 @@
+{
+  "name": "tests-sample-tdd",
+  "version": "1.0.0",
+  "description": "Learning how to write correct tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hitesh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
