@@ -9,6 +9,13 @@
   "author": "Hitesh",
   "license": "ISC",
   "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
